@@ -1,2 +1,2 @@
 # DL_basic
-Code for Deep learning basic lecture
+Code for Deep learning basic lecture in KNU
